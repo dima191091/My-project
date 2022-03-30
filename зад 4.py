@@ -1,0 +1,5 @@
+str = input("введите строку; ")
+str1 = str.replace(" ", "")
+# stroka1 = stroka.split()
+# print(''.join(stroka1))
+print(str==str1[::-1])
